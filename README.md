@@ -5,5 +5,3 @@
 - 📫 How to reach me: 
   - E-mail: cenobyte321@clubdoom.com 
   - Twitter: https://twitter.com/cenobyte321
-
-- Profile NFT: https://opensea.io/assets/ethereum/0x8d78277bc2c63f07efc2c0c8a8512de4ad459a05/1
