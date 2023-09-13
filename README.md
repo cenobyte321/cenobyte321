@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cenobyte321
 - 👀 I’m interested in Blockchain Engineering
-- 🌱 I’m currently learning Solidity, Dart
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me: 
   - E-mail: cenobyte321@clubdoom.com 
   - Twitter: https://twitter.com/cenobyte321
